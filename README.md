@@ -27,7 +27,7 @@ What was the busiest day for citibike in the time period you reviewed? <br />
 **The busiest day for citibike was June 4th, 2022. There were 4,245 rides taken on that day**
 
 ## Dashboards and Stories
-Use your visualizations (not necessarily all of them) to design a dashboard for each phenomenon. The dashboards should be accompanied by an analysis explaining why the phenomenon may be occurring.
+Use your visualizations (not necessarily all of them) to design a dashboard for each phenomenon. The dashboards should be accompanied by an analysis explaining why each phenomenon may be occurring.
 
 Create the following visualization for city officials:
 
