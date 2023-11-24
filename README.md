@@ -11,7 +11,7 @@ How many trips have been recorded in total during the chosen period? <br />
 By what percentage has total ridership grown/decreased? <br />
 **Ridership decreased by roughly 6% compared to June of the previous year.**
 
-How have the proportions of short-term customers and annual subscribers changed?<br />
+How have the proportions of short-term customers and annual subscribers changed? <br />
 **While overall rides are down compared to the previous June, membership riders account for 71% of all June 2023 rides compared to 61% the previous June.**
 
 What are the peak hours when bikes are used during the summer months?<br />
