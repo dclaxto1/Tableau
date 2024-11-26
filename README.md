@@ -1,4 +1,4 @@
-# overview 
+# overview   
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. <br />  
 Design 2–5 visualizations for each discovered phenomenon. You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
 
