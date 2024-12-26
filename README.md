@@ -6,7 +6,7 @@ Design 2–5 visualizations for each discovered phenomenon. You may work with a 
 The following are questions you may wish to answer:  
  
 How many trips have been recorded in total during the chosen period? <br /> 
-**103,299 in June 2022 and 97,023 in June of 2023**
+**103,299 in June 2022 and 97,023 in June of 2023**  
 
 By what percentage has total ridership grown/decreased? <br />
 **Ridership decreased by roughly 6% compared to June of the previous year.**
