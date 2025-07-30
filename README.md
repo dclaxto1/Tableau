@@ -3,7 +3,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 Design 2–5 visualizations for each discovered phenomenon. You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
 
 ## Tasks   
-The following are questions you may wish to answer:  
+The following are questions you may wish to answer:    
  
 How many trips have been recorded in total during the chosen period? <br /> 
 **103,299 in June 2022 and 97,023 in June of 2023**  
